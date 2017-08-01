@@ -34,8 +34,8 @@ _Laravel AJAX CRUD Modal_ demo provides basic CRUD web application without page 
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/30528898/28817853-19591164-76c7-11e7-82e3-6162cc373962.png)
-![image](https://user-images.githubusercontent.com/30528898/28817873-256e322c-76c7-11e7-91af-042bc1f01f69.png)
-![image](https://user-images.githubusercontent.com/30528898/28817882-2dbc7826-76c7-11e7-943e-5461f12db25b.png)
+![image](https://user-images.githubusercontent.com/30528898/28818003-85a2167c-76c7-11e7-8280-9859e1f49604.png)
+![image](https://user-images.githubusercontent.com/30528898/28818035-9ad693b0-76c7-11e7-9305-54dffdada2ad.png)
 
 
 ## License
