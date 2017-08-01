@@ -31,6 +31,10 @@ _Laravel AJAX CRUD Modal_ demo provides basic CRUD web application without page 
 ```
   php artisan serve
 ```
+8. Proceed to
+```
+  http://localhost:8000/product
+```
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/30528898/28817853-19591164-76c7-11e7-82e3-6162cc373962.png)
